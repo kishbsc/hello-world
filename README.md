@@ -1,1 +1,1 @@
-# hello-world
+Its my first GIT repo excercise
